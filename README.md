@@ -1,5 +1,21 @@
 # House Price Prediction ML Project
 
+
+# 🏠 House Price Prediction ML Project
+
+> End-to-end Machine Learning project for predicting house prices.
+
+## 🚀 Live Demo
+
+**[👉 Open Live Application](https://house-price-prediction-ml-project-pk4mdbjksdsz65rh4hej2u.streamlit.app/)**
+
+## 📂 GitHub Repository
+
+This repository contains the complete source code, dataset, trained model, and deployment files.
+
+...
+
+
 ## Project Overview
 
 This is an end-to-end Machine Learning project that predicts house prices using property features.
